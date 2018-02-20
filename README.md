@@ -66,3 +66,41 @@ If you do not have this installed, please run the following command from your te
 rvm install "ruby-2.2.3"
 ```
 
+## **Gems**
+
+This application is dependent on the following gems:
+
+```
+Rails - 4.2.6
+PG ~> 0.15
+Sass-rails ~> 5.0
+Uglifier >= 1.3.0
+Coffee-rails ~> 4.1.0
+Therubyracer
+Jquery-rails
+Turbolinks
+Jbuilder ~> 2.0
+Factory_girl_rails ~> 4.0
+Rabl
+Rack-cors
+Devise
+Devise_token-auth
+Omniauth
+Mailboxer
+Bcrypt ~> 3.1.7
+Unicorn
+Capistrano-rails
+Byebug
+Rtask-db-drop-connections
+Pry
+Web-console ~> 2.0
+Spring
+Rspec-rails
+Capybara
+Selenium-webdriver
+Faker
+Shoulda
+Database_cleaner
+```
+Installation details to follow.
+
